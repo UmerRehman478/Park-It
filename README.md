@@ -1,5 +1,3 @@
-# 🚗 Park It!
-
 # Parking Ticket Purchase App 🚗
 
 Parkit is a simple parking ticket purchase application that integrates with **Stripe** for payment processing. Built with **Next.js**, **Chakra UI**, and a **Redis-backed session store**, Parkit ensures a smooth user experience for purchasing and validating parking tickets.
